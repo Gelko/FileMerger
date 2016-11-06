@@ -1,0 +1,11 @@
+C:\_dev\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\_dev\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\_dev\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\_dev\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\_dev\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\_dev\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\_dev\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\_dev\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\FileMerge.csproj.GenerateResource.Cache
+c:\_dev\FileMergeApp\FileMergeApp\bin\Debug\WindowsFormsApplication1.exe.config
+c:\_dev\FileMergeApp\FileMergeApp\obj\Debug\WindowsFormsApplication1.exe
+c:\_dev\FileMergeApp\FileMergeApp\obj\Debug\WindowsFormsApplication1.pdb
